@@ -5,10 +5,10 @@ let input1 = document.querySelector("#text");
 let input2 = document.querySelector("#textTransfer");
 let input3 = document.querySelector("#textPlaceholder");
 
-console.dir(btn);
-console.dir(input1);
-console.dir(input2);
-console.dir(input3);
+// console.dir(btn);
+// console.dir(input1);
+// console.dir(input2);
+// console.dir(input3);
 
 
 btn.onclick = function () {
@@ -23,4 +23,4 @@ input3.onmouseout = function () {
     input3.value = "";
   }
 };
-console.dir(input3.placeholder);
+// console.dir(input3.placeholder);
