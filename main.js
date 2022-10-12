@@ -1,4 +1,3 @@
-'use strict'
 
 let btn = document.querySelector("#btn");
 let input1 = document.querySelector("#text");
